@@ -24,3 +24,5 @@ let alert_check:assessment=assessment(text: "Are they alert?", pos_response: 8, 
 let serious_hemhorrage:assessment=assessment(text: "Is there serious bleeding?", pos_response: 0, neg_response: 1, not_sure: -1)
 let chestpain_check:assessment=assessment(text: "Are they complaing of any chest pain?", pos_response:11 , neg_response: 12, not_sure: -1)
 
+
+let question_array=[breathing_check,consiousness_check, trauma_splitter, alert_check, serious_hemhorrage, chestpain_check]
