@@ -28,7 +28,7 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                 <state key="normal" title="Yes"/>
                                 <connections>
-                                    <action selector="PosRepsonse:" destination="sWT-Jf-xbD" eventType="touchUpInside" id="ZzS-hr-Jxw"/>
+                                    <action selector="posRepsonse:" destination="sWT-Jf-xbD" eventType="touchUpInside" id="eIL-HV-Das"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="249" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="MaZ-9q-LSw">
@@ -36,7 +36,7 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                 <state key="normal" title="No"/>
                                 <connections>
-                                    <action selector="NegResponse:" destination="sWT-Jf-xbD" eventType="touchUpInside" id="hgc-ap-UyI"/>
+                                    <action selector="negResponse:" destination="sWT-Jf-xbD" eventType="touchUpInside" id="t6p-dy-6YN"/>
                                 </connections>
                             </button>
                         </subviews>
