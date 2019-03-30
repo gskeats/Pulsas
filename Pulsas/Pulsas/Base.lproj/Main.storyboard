@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="sWT-Jf-xbD">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="sWT-Jf-xbD">
     <device id="retina4_7" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -57,12 +57,14 @@
                         <viewLayoutGuide key="safeArea" id="OLD-iC-5vK"/>
                     </view>
                     <connections>
-                        <outlet property="SimpleQuestionText" destination="7ug-IP-JXG" id="gaO-W3-KoV"/>
+                        <outlet property="scenetext" destination="7ug-IP-JXG" id="gaO-W3-KoV"/>
+                        <segue destination="wUV-1U-jQo" kind="presentation" identifier="toAxiomFromSimple" id="u5s-pt-uzU"/>
+                        <segue destination="7k6-4K-5YJ" kind="presentation" identifier="toDisplayfromSimple" id="234-WA-9f0"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="0u5-G7-cZS" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="693.60000000000002" y="121.88905547226388"/>
+            <point key="canvasLocation" x="641" y="122"/>
         </scene>
         <!--YesNoNotSure-->
         <scene sceneID="twQ-Yj-HPW">
@@ -101,7 +103,7 @@
                                 </constraints>
                                 <state key="normal" title="Not sure"/>
                                 <connections>
-                                    <action selector="AxiomDisplay:" destination="wUV-1U-jQo" eventType="touchUpInside" id="cnD-aK-xaM"/>
+                                    <action selector="axiomButton:" destination="wUV-1U-jQo" eventType="touchUpInside" id="L9Z-3Y-8bc"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -125,12 +127,14 @@
                         <viewLayoutGuide key="safeArea" id="9o6-CD-6zh"/>
                     </view>
                     <connections>
-                        <outlet property="SimpleQuestionText" destination="CJc-VA-JzW" id="TjX-E6-iPK"/>
+                        <outlet property="scenetext" destination="CJc-VA-JzW" id="TjX-E6-iPK"/>
+                        <segue destination="sWT-Jf-xbD" kind="presentation" identifier="toSimplefromAxiom" id="sco-I8-sbu"/>
+                        <segue destination="7k6-4K-5YJ" kind="presentation" identifier="fromAxiomtoDisplay" id="JRj-oY-hAY"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="qsg-nz-zcT" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1655.2" y="121.88905547226388"/>
+            <point key="canvasLocation" x="2502" y="-286"/>
         </scene>
         <!--Display-->
         <scene sceneID="gsu-OR-wCJ">
@@ -150,7 +154,7 @@
                                 <rect key="frame" x="61" y="583" width="263" height="64"/>
                                 <state key="normal" title="Back"/>
                                 <connections>
-                                    <action selector="ReturnAxiom:" destination="7k6-4K-5YJ" eventType="touchUpInside" id="LZB-4c-G11"/>
+                                    <action selector="backButton:" destination="7k6-4K-5YJ" eventType="touchUpInside" id="qQQ-DY-EKy"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -168,12 +172,19 @@
                         <viewLayoutGuide key="safeArea" id="d9G-xO-hGi"/>
                     </view>
                     <connections>
-                        <outlet property="SimpleQuestionText" destination="J6k-Eb-YJs" id="s7T-Sd-Wcw"/>
+                        <outlet property="scenetext" destination="J6k-Eb-YJs" id="s7T-Sd-Wcw"/>
+                        <segue destination="sWT-Jf-xbD" kind="presentation" identifier="toSimpleFromDisplay" id="OGm-Cr-S1I"/>
+                        <segue destination="wUV-1U-jQo" kind="presentation" identifier="toAxiomfromDisplay" id="Q9j-j3-c0X"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="6Yf-uE-bpr" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1172" y="810.0449775112445"/>
+            <point key="canvasLocation" x="582" y="1354"/>
         </scene>
     </scenes>
+    <inferredMetricsTieBreakers>
+        <segue reference="JRj-oY-hAY"/>
+        <segue reference="Q9j-j3-c0X"/>
+        <segue reference="OGm-Cr-S1I"/>
+    </inferredMetricsTieBreakers>
 </document>
