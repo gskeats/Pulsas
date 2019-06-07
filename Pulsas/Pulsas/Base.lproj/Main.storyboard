@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14313.18" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="sWT-Jf-xbD">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="sWT-Jf-xbD">
     <device id="retina4_7" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14283.14"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--View Controller-->
+        <!--YesNoSimple-->
         <scene sceneID="mpD-M2-2pz">
             <objects>
-                <viewController id="sWT-Jf-xbD" customClass="ViewController" customModule="Pulsas" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController title="YesNoSimple" id="sWT-Jf-xbD" customClass="ViewController" customModule="Pulsas" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Far-28-Wze">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -57,12 +57,134 @@
                         <viewLayoutGuide key="safeArea" id="OLD-iC-5vK"/>
                     </view>
                     <connections>
-                        <outlet property="QuestionText" destination="7ug-IP-JXG" id="gaO-W3-KoV"/>
+                        <outlet property="scenetext" destination="7ug-IP-JXG" id="gaO-W3-KoV"/>
+                        <segue destination="wUV-1U-jQo" kind="presentation" identifier="toAxiomFromSimple" id="u5s-pt-uzU"/>
+                        <segue destination="7k6-4K-5YJ" kind="presentation" identifier="toDisplayfromSimple" id="234-WA-9f0"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="0u5-G7-cZS" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="693.60000000000002" y="121.88905547226388"/>
+            <point key="canvasLocation" x="641" y="122"/>
+        </scene>
+        <!--YesNoNotSure-->
+        <scene sceneID="twQ-Yj-HPW">
+            <objects>
+                <viewController title="YesNoNotSure" id="wUV-1U-jQo" customClass="ViewController" customModule="Pulsas" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="4ee-Kc-06m">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="8" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="CJc-VA-JzW">
+                                <rect key="frame" x="16" y="41" width="343" height="98"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ecy-QX-fYN">
+                                <rect key="frame" x="61" y="318" width="39" height="64"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
+                                <state key="normal" title="Yes"/>
+                                <connections>
+                                    <action selector="posRepsonse:" destination="wUV-1U-jQo" eventType="touchUpInside" id="xvF-8T-hvN"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="249" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="IJq-0u-8ND">
+                                <rect key="frame" x="205" y="318" width="119" height="64"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
+                                <state key="normal" title="No"/>
+                                <connections>
+                                    <action selector="negResponse:" destination="wUV-1U-jQo" eventType="touchUpInside" id="anr-KS-s3K"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="lJP-LK-AB4">
+                                <rect key="frame" x="61" y="583" width="263" height="64"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="64" id="X9X-aB-n1x"/>
+                                </constraints>
+                                <state key="normal" title="Not sure"/>
+                                <connections>
+                                    <action selector="axiomButton:" destination="wUV-1U-jQo" eventType="touchUpInside" id="L9Z-3Y-8bc"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="lJP-LK-AB4" firstAttribute="leading" secondItem="Ecy-QX-fYN" secondAttribute="leading" id="3lD-GC-yKO"/>
+                            <constraint firstItem="IJq-0u-8ND" firstAttribute="leading" secondItem="Ecy-QX-fYN" secondAttribute="trailing" constant="105" id="8Ee-JZ-Ngk"/>
+                            <constraint firstItem="CJc-VA-JzW" firstAttribute="top" secondItem="9o6-CD-6zh" secondAttribute="top" constant="21" id="UBY-mJ-rbQ"/>
+                            <constraint firstAttribute="bottom" secondItem="lJP-LK-AB4" secondAttribute="bottom" constant="20" symbolic="YES" id="WI7-yB-9oo"/>
+                            <constraint firstItem="9o6-CD-6zh" firstAttribute="bottom" secondItem="CJc-VA-JzW" secondAttribute="bottom" constant="528" id="anC-yV-Woe"/>
+                            <constraint firstItem="Ecy-QX-fYN" firstAttribute="leading" secondItem="9o6-CD-6zh" secondAttribute="leading" constant="61" id="g9c-Wx-Tno"/>
+                            <constraint firstItem="9o6-CD-6zh" firstAttribute="bottom" secondItem="Ecy-QX-fYN" secondAttribute="bottom" constant="285" id="hB3-r6-wbr"/>
+                            <constraint firstItem="CJc-VA-JzW" firstAttribute="leading" secondItem="9o6-CD-6zh" secondAttribute="leading" constant="16" id="sdB-bs-AAX"/>
+                            <constraint firstItem="IJq-0u-8ND" firstAttribute="top" secondItem="CJc-VA-JzW" secondAttribute="bottom" constant="179" id="ttP-C7-QZn"/>
+                            <constraint firstItem="Ecy-QX-fYN" firstAttribute="top" secondItem="CJc-VA-JzW" secondAttribute="bottom" constant="179" id="wFg-IX-k6D"/>
+                            <constraint firstItem="9o6-CD-6zh" firstAttribute="bottom" secondItem="IJq-0u-8ND" secondAttribute="bottom" constant="285" id="xes-g3-d4h"/>
+                            <constraint firstItem="9o6-CD-6zh" firstAttribute="trailing" secondItem="CJc-VA-JzW" secondAttribute="trailing" constant="16" id="y6v-ys-2QP"/>
+                            <constraint firstItem="9o6-CD-6zh" firstAttribute="trailing" secondItem="IJq-0u-8ND" secondAttribute="trailing" constant="51" id="zBv-5W-Bh1"/>
+                            <constraint firstItem="lJP-LK-AB4" firstAttribute="trailing" secondItem="IJq-0u-8ND" secondAttribute="trailing" id="zde-FE-MNo"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="9o6-CD-6zh"/>
+                    </view>
+                    <connections>
+                        <outlet property="scenetext" destination="CJc-VA-JzW" id="TjX-E6-iPK"/>
+                        <segue destination="sWT-Jf-xbD" kind="presentation" identifier="toSimplefromAxiom" id="sco-I8-sbu"/>
+                        <segue destination="7k6-4K-5YJ" kind="presentation" identifier="fromAxiomtoDisplay" id="JRj-oY-hAY"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="qsg-nz-zcT" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2502" y="-286"/>
+        </scene>
+        <!--Display-->
+        <scene sceneID="gsu-OR-wCJ">
+            <objects>
+                <viewController title="Display" id="7k6-4K-5YJ" customClass="ViewController" customModule="Pulsas" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Yxm-Tb-XwH">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="8" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="J6k-Eb-YJs">
+                                <rect key="frame" x="16" y="41" width="343" height="534"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ztt-Vc-6sh">
+                                <rect key="frame" x="61" y="583" width="263" height="64"/>
+                                <state key="normal" title="Back"/>
+                                <connections>
+                                    <action selector="backButton:" destination="7k6-4K-5YJ" eventType="touchUpInside" id="qQQ-DY-EKy"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="J6k-Eb-YJs" firstAttribute="leading" secondItem="d9G-xO-hGi" secondAttribute="leading" constant="16" id="35u-uZ-tfL"/>
+                            <constraint firstItem="d9G-xO-hGi" firstAttribute="bottom" secondItem="J6k-Eb-YJs" secondAttribute="bottom" constant="92" id="D3b-O4-uav"/>
+                            <constraint firstAttribute="bottom" secondItem="Ztt-Vc-6sh" secondAttribute="bottom" constant="20" symbolic="YES" id="FPy-Sx-4of"/>
+                            <constraint firstItem="Ztt-Vc-6sh" firstAttribute="top" secondItem="J6k-Eb-YJs" secondAttribute="bottom" constant="8" symbolic="YES" id="KL6-Dd-wHs"/>
+                            <constraint firstItem="Ztt-Vc-6sh" firstAttribute="leading" secondItem="d9G-xO-hGi" secondAttribute="leading" constant="61" id="R0D-Xq-1lW"/>
+                            <constraint firstItem="d9G-xO-hGi" firstAttribute="trailing" secondItem="Ztt-Vc-6sh" secondAttribute="trailing" constant="51" id="dWq-jG-Uu4"/>
+                            <constraint firstItem="d9G-xO-hGi" firstAttribute="trailing" secondItem="J6k-Eb-YJs" secondAttribute="trailing" constant="16" id="iPG-nX-Kg3"/>
+                            <constraint firstItem="J6k-Eb-YJs" firstAttribute="top" secondItem="d9G-xO-hGi" secondAttribute="top" constant="21" id="kcv-mY-fHF"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="d9G-xO-hGi"/>
+                    </view>
+                    <connections>
+                        <outlet property="scenetext" destination="J6k-Eb-YJs" id="s7T-Sd-Wcw"/>
+                        <segue destination="sWT-Jf-xbD" kind="presentation" identifier="toSimpleFromDisplay" id="OGm-Cr-S1I"/>
+                        <segue destination="wUV-1U-jQo" kind="presentation" identifier="toAxiomfromDisplay" id="Q9j-j3-c0X"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="6Yf-uE-bpr" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="582" y="1354"/>
         </scene>
     </scenes>
+    <inferredMetricsTieBreakers>
+        <segue reference="234-WA-9f0"/>
+        <segue reference="u5s-pt-uzU"/>
+        <segue reference="OGm-Cr-S1I"/>
+    </inferredMetricsTieBreakers>
 </document>
