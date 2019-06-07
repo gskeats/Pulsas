@@ -41,6 +41,12 @@ class ViewController: UIViewController {
     }
     
     @IBAction func backButton(_ sender: Any) {
+        if current_scene.return_information==nil{
+            current_scene=consciousness_check as Axiom_Display
+            passed_scene=nil
+            performSegue(withIdentifier: "toSimpleFromDisplay", sender: current_scene)
+            return
+        }
         let next_scene=current_scene.return_information
         let segue_name=current_scene.get_segue_identifier(object: next_scene!)
         segue_programmatically(name: segue_name, next: next_scene!)
@@ -57,7 +63,6 @@ class ViewController: UIViewController {
 
 
     @IBAction func axiomButton(_ sender: Any) {
-        print("got here")
         let downcast=current_scene as! Assessment_with_Axiom
         let next_scene=downcast.axiom
         let segue_name=current_scene.get_segue_identifier(object: next_scene)

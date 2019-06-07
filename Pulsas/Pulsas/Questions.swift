@@ -145,6 +145,8 @@ let alert_check=Assessment_Display(text_init: "Are they alert?", pos_arg: chest_
 let trauma_check=Assessment_with_Axiom(text: "Are they injured?", pos_arg: hemhorrage, neg_arg: non_emerg_exit, axiom_info: sternum, last:nil)
 let sternum=Axiom_Display(text: "Make a fist and rub their breastbone vigorously, as if you were giving someone a noogie.", last: trauma_check2)
 let trauma_check2=Assessment_Display(text_init: "Are they injured?", pos_arg: emerg_exit, neg_arg: non_emerg_exit,last:nil)
-let breathing_check=Assessment_Display(text_init: "Are they having difficulty breathng?", pos_arg: emerg_exit, neg_arg: trauma_check,last:nil)
+let breathing_check2=Assessment_Display(text_init: "Are they having difficulty breathng?", pos_arg: emerg_exit, neg_arg: trauma_check, last: nil)
+let breathing_axiom=Axiom_Display(text: "Try the following:\n\n -Look at their chest, is it moving up and down? \n\n -Put your ear next to their mouth, can you hear air moving or feel their breath on your cheek?\n\n -If they are gasping for breath or breathing extremely shallowly and making strange noises then they are not breathing.", last: breathing_check2)
+let breathing_check=Assessment_with_Axiom(text: "Are they having difficulty breathng?", pos_arg: emerg_exit, neg_arg: trauma_check, axiom_info:breathing_axiom, last:nil)
 let consciousness_check=Assessment_Display(text_init: "Are they awake?", pos_arg: breathing_check , neg_arg: emerg_exit,last:nil)
 

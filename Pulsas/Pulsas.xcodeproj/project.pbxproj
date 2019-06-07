@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2A02A2F522AAB4780054A349 /* Pulsas Art.png in Resources */ = {isa = PBXBuildFile; fileRef = 2A02A2F422AAB4780054A349 /* Pulsas Art.png */; };
 		2A95B1052163293B00A5E159 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A95B1042163293B00A5E159 /* AppDelegate.swift */; };
 		2A95B1072163293B00A5E159 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A95B1062163293B00A5E159 /* ViewController.swift */; };
 		2A95B10A2163293B00A5E159 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2A95B1082163293B00A5E159 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2A02A2F422AAB4780054A349 /* Pulsas Art.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Pulsas Art.png"; sourceTree = "<group>"; };
 		2A95B1012163293B00A5E159 /* Pulsas.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Pulsas.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A95B1042163293B00A5E159 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2A95B1062163293B00A5E159 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				2A95B1162163297B00A5E159 /* Questions.swift */,
 				2A95B1082163293B00A5E159 /* Main.storyboard */,
 				2A95B10B2163293C00A5E159 /* Assets.xcassets */,
+				2A02A2F422AAB4780054A349 /* Pulsas Art.png */,
 				2A95B10D2163293C00A5E159 /* LaunchScreen.storyboard */,
 				2A95B1102163293C00A5E159 /* Info.plist */,
 			);
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2A02A2F522AAB4780054A349 /* Pulsas Art.png in Resources */,
 				2A95B10F2163293C00A5E159 /* LaunchScreen.storyboard in Resources */,
 				2A95B10C2163293C00A5E159 /* Assets.xcassets in Resources */,
 				2A95B10A2163293B00A5E159 /* Main.storyboard in Resources */,
