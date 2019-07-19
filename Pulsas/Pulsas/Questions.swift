@@ -101,7 +101,7 @@ class Assessment_with_Axiom:Assessment_Display{
 }
 
 
-let emerg_exit=Axiom_Display(text: "Based on the information you have entered this is most likely a medical emergency.\n \n Dial 911 IMMEDIATLEY.\n \n \n        Failure to do so in a timely manner may result in a loss of life.",last:nil)
+let emerg_exit=Axiom_Display(text: "Based on the information you have entered this is most likely a medical emergency.\n \n Dial 911 IMMEDIATLEY.\n \n \n Failure to do so in a timely manner may result in a loss of life.",last:nil)
 let non_emerg_exit=Axiom_Display(text: "Based on the information you have entered the application has not recognized this as a medical emergency. \n This application is not indended to replace the advice of a physician, use common sense and seek further assistance if neccesary. \n If the individual in question insists that they need emergency care listen to them, they are most likely right! \nIf symptoms do not abate then contact your physician for follow up care.", last: nil)
 let pain=Assessment_Display(text_init: "Is the persons pain greater than a 7 on a scale from 1-10 with 1 being low, 10 being the worst pain theyve ever experiences?", pos_arg: emerg_exit, neg_arg: non_emerg_exit, last: nil)
 let loc=Assessment_Display(text_init: "Did the person lose consciousness at any point?", pos_arg: emerg_exit, neg_arg: pain, last: nil)
@@ -142,11 +142,11 @@ let male_age=Assessment_Display(text_init: "Is the victim male and over the age 
 let navel=Assessment_Display(text_init: "Is the pain above or below their belly button?", pos_arg: male_age, neg_arg: tripleA, last: nil)
 let chest_pain=Assessment_Display(text_init: "Are they complaning of any chest pain?", pos_arg: navel, neg_arg: hx_stroke, last: nil)
 let alert_check=Assessment_Display(text_init: "Are they alert?", pos_arg: chest_pain, neg_arg: emerg_exit, last: nil)
-let trauma_check=Assessment_with_Axiom(text: "Are they injured?", pos_arg: hemhorrage, neg_arg: non_emerg_exit, axiom_info: sternum, last:nil)
+let trauma_check=Assessment_with_Axiom(text: "Are they injured?", pos_arg: hemhorrage, neg_arg: alert_check, axiom_info: sternum, last:nil)
 let sternum=Axiom_Display(text: "Make a fist and rub their breastbone vigorously, as if you were giving someone a noogie.", last: trauma_check2)
-let trauma_check2=Assessment_Display(text_init: "Are they injured?", pos_arg: emerg_exit, neg_arg: non_emerg_exit,last:nil)
+let trauma_check2=Assessment_Display(text_init: "Are they injured?", pos_arg: hemhorrage, neg_arg: alert_check,last:nil)
 let breathing_check2=Assessment_Display(text_init: "Are they having difficulty breathng?", pos_arg: emerg_exit, neg_arg: trauma_check, last: nil)
 let breathing_axiom=Axiom_Display(text: "Try the following:\n\n -Look at their chest, is it moving up and down? \n\n -Put your ear next to their mouth, can you hear air moving or feel their breath on your cheek?\n\n -If they are gasping for breath or breathing extremely shallowly and making strange noises then they are not breathing.", last: breathing_check2)
-let breathing_check=Assessment_with_Axiom(text: "Are they having difficulty breathng?", pos_arg: emerg_exit, neg_arg: trauma_check, axiom_info:breathing_axiom, last:nil)
+let breathing_check=Assessment_with_Axiom(text: "Are they having difficulty breathing?", pos_arg: emerg_exit, neg_arg: trauma_check, axiom_info:breathing_axiom, last:nil)
 let consciousness_check=Assessment_Display(text_init: "Are they awake?", pos_arg: breathing_check , neg_arg: emerg_exit,last:nil)
 

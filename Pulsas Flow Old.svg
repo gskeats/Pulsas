@@ -1,0 +1,524 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<svg width="843" height="1022" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<!--WillInclude_umdx-->
+<path d="M 40.00 40.00 L 160.00 40.00 L 160.00 80.00 L 40.00 80.00 Z M 40.00 40.00" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="55.31" y="64.74" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Are they awake?</text>
+<path d="M 200.00 40.00 L 320.00 40.00 L 320.00 90.00 L 200.00 90.00 Z M 200.00 40.00" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="218.31" y="62.24" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Are they having</text>
+<text x="236.66" y="77.24" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > difficulty breathing?</text>
+<path d="M 160.00 61.88 L 181.41 62.54" stroke-width="1.00" stroke="#21fe06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 181.41 62.54 L 200.00 63.12 M 193.46 64.30 L 200.00 63.12 L 193.55 61.54" stroke-width="1.00" stroke="#21fe06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 339.89 500.13 L 1319.89 500.13 L 1319.89 519.86 L 339.89 519.86 Z M 339.89 500.13" transform="rotate(90.03,829.89,510.00)" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="822.41" y="465.22" transform="rotate(90.03,822.41,465.22)" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Emergency Exit</text>
+<path d="M 0.10 1000.20 L 839.88 1000.20 L 839.88 1020.00 L 0.10 1020.00 Z M 0.10 1000.20" transform="rotate(359.97,419.99,1010.10)" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="364.98" y="1014.87" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Non-Emergency Exit</text>
+<path d="M 360.00 40.00 L 480.00 40.00 L 480.00 90.00 L 360.00 90.00 Z M 360.00 40.00" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="374.64" y="69.74" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Are they injured?</text>
+<path d="M 320.00 100.00 L 440.00 100.00 L 440.00 150.00 L 320.00 150.00 Z M 320.00 100.00" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="340.98" y="129.74" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Are they alert?</text>
+<path d="M 520.00 40.00 L 640.00 40.00 L 640.00 90.00 L 520.00 90.00 Z M 520.00 40.00" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="538.98" y="62.24" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Is there serious</text>
+<text x="552.31" y="77.24" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > bleeding?</text>
+<path d="M 320.00 160.00 L 440.00 160.00 L 440.00 220.00 L 320.00 220.00 Z M 320.00 160.00" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="357.66" y="179.74" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Are they</text>
+<text x="328.30" y="194.74" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > complaining of any</text>
+<text x="347.64" y="209.74" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > chest pain?</text>
+<path d="M 200.00 160.00 L 300.00 160.00 L 300.00 210.00 L 200.00 210.00 Z M 200.00 160.00" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="206.31" y="174.74" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Is the chest pain</text>
+<text x="204.64" y="189.74" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > above their belly</text>
+<text x="228.31" y="204.74" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > button?</text>
+<path d="M 60.00 200.00 L 160.00 200.00 L 160.00 270.00 L 60.00 270.00 Z M 60.00 200.00" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="76.66" y="217.24" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > Is the victim</text>
+<text x="68.64" y="232.24" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > male and older</text>
+<text x="65.30" y="247.24" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > than 35 years of</text>
+<text x="94.99" y="262.24" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > age?</text>
+<path d="M 60.00 300.00 L 160.00 300.00 L 160.00 380.00 L 60.00 380.00 Z M 60.00 300.00" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="78.33" y="322.24" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Is the victim</text>
+<text x="78.65" y="337.24" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > female and</text>
+<text x="73.31" y="352.24" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > older than 45</text>
+<text x="71.98" y="367.24" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > years of age?</text>
+<path d="M 60.00 420.00 L 160.00 420.00 L 160.00 480.00 L 60.00 480.00 Z M 60.00 420.00" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="74.64" y="439.74" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Do they have</text>
+<text x="72.65" y="454.74" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > any history of</text>
+<text x="94.66" y="469.74" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > heart problems?</text>
+<path d="M 60.00 520.00 L 160.00 520.00 L 160.00 570.00 L 60.00 570.00 Z M 60.00 520.00" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="65.32" y="534.74" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Are they clammy</text>
+<text x="70.98" y="549.74" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > or having cold</text>
+<text x="86.32" y="564.74" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > sweats?</text>
+<path d="M 180.00 240.00 L 280.00 240.00 L 280.00 322.83 L 180.00 322.83 Z M 180.00 240.00" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="194.64" y="263.66" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Do they have</text>
+<text x="192.65" y="278.66" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > any history of</text>
+<text x="200.65" y="293.66" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > abdominal</text>
+<text x="213.66" y="308.66" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > aortic aneurysm?</text>
+<path d="M 60.00 600.00 L 160.00 600.00 L 160.00 668.94 L 60.00 668.94 Z M 60.00 600.00" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="77.98" y="616.71" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Do they feel</text>
+<text x="64.64" y="631.71" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > nauseous or like</text>
+<text x="75.31" y="646.71" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > they need to</text>
+<text x="81.98" y="661.71" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > throw up?</text>
+<path d="M 60.00 700.00 L 160.00 700.00 L 160.00 750.00 L 60.00 750.00 Z M 60.00 700.00" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="67.98" y="722.24" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Did they faint or</text>
+<text x="75.65" y="737.24" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > nearly faint?</text>
+<path d="M 320.00 340.00 L 420.00 340.00 L 420.00 390.00 L 320.00 390.00 Z M 320.00 340.00" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="334.64" y="354.74" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Do they have</text>
+<text x="332.65" y="369.74" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > any history of</text>
+<text x="342.31" y="384.74" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > diabetes?</text>
+<path d="M 320.00 240.00 L 420.00 240.00 L 420.00 290.00 L 320.00 290.00 Z M 320.00 240.00" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="334.64" y="254.74" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Do they have</text>
+<text x="332.65" y="269.74" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > any history of</text>
+<text x="348.66" y="284.74" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > stroke?</text>
+<path d="M 180.00 360.00 L 280.00 360.00 L 280.00 430.00 L 180.00 430.00 Z M 180.00 360.00" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="207.66" y="377.24" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Are they</text>
+<text x="189.64" y="392.24" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > complaining of</text>
+<text x="189.31" y="407.24" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > any numbness</text>
+<text x="194.32" y="422.24" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > or paralysis?</text>
+<path d="M 540.00 100.00 L 640.00 100.00 L 640.00 150.00 L 540.00 150.00 Z M 540.00 100.00" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="555.32" y="129.74" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Did they fall?</text>
+<path d="M 680.00 100.00 L 780.00 100.00 L 780.00 150.00 L 680.00 150.00 Z M 680.00 100.00" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="698.88" y="114.74" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Was the fall</text>
+<text x="687.64" y="129.74" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > greater than 10</text>
+<text x="714.99" y="144.74" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > feet?</text>
+<path d="M 600.00 200.00 L 700.00 200.00 L 700.00 250.00 L 600.00 250.00 Z M 600.00 200.00" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="611.65" y="222.24" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Did they injure</text>
+<text x="618.31" y="237.24" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > their head?</text>
+<path d="M 600.00 276.42 L 700.00 276.42 L 700.00 326.42 L 600.00 326.42 Z M 600.00 276.42" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="615.31" y="298.66" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Is the person</text>
+<text x="619.65" y="313.66" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > completely alert?</text>
+<path d="M 600.00 340.00 L 700.00 340.00 L 700.00 390.00 L 600.00 390.00 Z M 600.00 340.00" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="614.64" y="354.74" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Do they have</text>
+<text x="605.97" y="369.74" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > any pain in their</text>
+<text x="610.98" y="384.74" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > neck or back?</text>
+<path d="M 660.00 440.00 L 760.00 440.00 L 760.00 490.00 L 660.00 490.00 Z M 660.00 440.00" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="675.32" y="454.74" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Did they lose</text>
+<text x="668.98" y="469.74" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > consciousness</text>
+<text x="673.97" y="484.74" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > at any point?</text>
+<path d="M 660.00 540.00 L 760.00 540.00 L 760.00 620.00 L 660.00 620.00 Z M 660.00 540.00" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="675.64" y="562.24" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Is the pain of</text>
+<text x="680.66" y="577.24" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > their injury</text>
+<text x="665.97" y="592.24" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > greater than a 7</text>
+<text x="681.64" y="607.24" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > out of 10?</text>
+<path d="M 540.00 420.00 L 640.00 420.00 L 640.00 470.00 L 540.00 470.00 Z M 540.00 420.00" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="554.64" y="434.74" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Do they have</text>
+<text x="549.31" y="449.74" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > any numbness</text>
+<text x="554.32" y="464.74" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > or paralysis?</text>
+<path d="M 540.00 500.00 L 640.00 500.00 L 640.00 578.94 L 540.00 578.94 Z M 540.00 500.00" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="554.64" y="514.21" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Do they have</text>
+<text x="547.31" y="529.21" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > any tenderness</text>
+<text x="549.99" y="544.21" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > or deformity to</text>
+<text x="555.32" y="559.21" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > their neck or</text>
+<text x="572.32" y="574.21" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > back?</text>
+<path d="M 540.00 600.00 L 640.00 600.00 L 640.00 671.06 L 540.00 671.06 Z M 540.00 600.00" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="562.99" y="617.77" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Have they</text>
+<text x="554.31" y="632.77" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > ingested any</text>
+<text x="566.32" y="647.77" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > drugs or</text>
+<text x="565.98" y="662.77" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > alcohol?</text>
+<path d="M 480.00 65.00 L 501.40 65.00" stroke-width="1.00" stroke="#21fe06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 501.40 65.00 L 520.00 65.00 M 513.50 66.38 L 520.00 65.00 L 513.50 63.62" stroke-width="1.00" stroke="#21fe06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 640.00 125.00 L 661.40 125.00" stroke-width="1.00" stroke="#21fe06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 661.40 125.00 L 680.00 125.00 M 673.50 126.38 L 680.00 125.00 L 673.50 123.62" stroke-width="1.00" stroke="#21fe06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 403.33 90.00 L 400.00 95.00" stroke-width="1.00" stroke="#fb0106" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 400.00 95.00 L 396.67 100.00 M 399.12 93.83 L 396.67 100.00 L 401.42 95.36" stroke-width="1.00" stroke="#fb0106" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 584.17 90.00 L 585.00 95.00" stroke-width="1.00" stroke="#fb0106" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 585.00 95.00 L 585.83 100.00 M 583.40 93.82 L 585.83 100.00 L 586.13 93.36" stroke-width="1.00" stroke="#fb0106" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 605.00 150.00 L 625.43 184.05" stroke-width="1.00" stroke="#fb0106" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 625.43 184.05 L 635.00 200.00 M 630.47 195.14 L 635.00 200.00 L 632.84 193.72" stroke-width="1.00" stroke="#fb0106" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 650.00 250.00 L 650.00 263.21" stroke-width="1.00" stroke="#fb0106" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 650.00 263.21 L 650.00 276.42 M 648.62 269.92 L 650.00 276.42 L 651.38 269.92" stroke-width="1.00" stroke="#fb0106" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 665.00 390.00 L 685.43 424.05" stroke-width="1.00" stroke="#fb0106" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 685.43 424.05 L 695.00 440.00 M 690.47 435.14 L 695.00 440.00 L 692.84 433.72" stroke-width="1.00" stroke="#fb0106" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 710.00 490.00 L 710.00 521.40" stroke-width="1.00" stroke="#fb0106" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 710.00 521.40 L 710.00 540.00 M 708.62 533.50 L 710.00 540.00 L 711.38 533.50" stroke-width="1.00" stroke="#fb0106" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 590.00 470.00 L 590.00 485.00" stroke-width="1.00" stroke="#fb0106" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 590.00 485.00 L 590.00 500.00 M 588.62 493.50 L 590.00 500.00 L 591.38 493.50" stroke-width="1.00" stroke="#fb0106" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 590.00 578.94 L 590.00 589.47" stroke-width="1.00" stroke="#fb0106" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 590.00 589.47 L 590.00 600.00 M 588.62 593.50 L 590.00 600.00 L 591.38 593.50" stroke-width="1.00" stroke="#fb0106" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 376.00 220.00 L 374.67 230.00" stroke-width="1.00" stroke="#fb0106" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 374.67 230.00 L 373.33 240.00 M 372.82 233.37 L 373.33 240.00 L 375.56 233.74" stroke-width="1.00" stroke="#fb0106" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 244.81 210.00 L 241.70 225.00" stroke-width="1.00" stroke="#fb0106" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 241.70 225.00 L 238.59 240.00 M 238.56 233.35 L 238.59 240.00 L 241.26 233.92" stroke-width="1.00" stroke="#fb0106" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 110.00 270.00 L 110.00 285.00" stroke-width="1.00" stroke="#fb0106" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 110.00 285.00 L 110.00 300.00 M 108.62 293.50 L 110.00 300.00 L 111.38 293.50" stroke-width="1.00" stroke="#fb0106" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 110.00 380.00 L 110.00 401.40" stroke-width="1.00" stroke="#fb0106" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 110.00 401.40 L 110.00 420.00 M 108.62 413.50 L 110.00 420.00 L 111.38 413.50" stroke-width="1.00" stroke="#fb0106" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 110.00 480.00 L 110.00 501.40" stroke-width="1.00" stroke="#fb0106" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 110.00 501.40 L 110.00 520.00 M 108.62 513.50 L 110.00 520.00 L 111.38 513.50" stroke-width="1.00" stroke="#fb0106" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 110.00 570.00 L 110.00 585.00" stroke-width="1.00" stroke="#fb0106" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 110.00 585.00 L 110.00 600.00 M 108.62 593.50 L 110.00 600.00 L 111.38 593.50" stroke-width="1.00" stroke="#fb0106" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 110.00 668.94 L 110.00 684.47" stroke-width="1.00" stroke="#fb0106" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 110.00 684.47 L 110.00 700.00 M 108.62 693.50 L 110.00 700.00 L 111.38 693.50" stroke-width="1.00" stroke="#fb0106" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 370.00 290.00 L 370.00 321.40" stroke-width="1.00" stroke="#fb0106" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 370.00 321.40 L 370.00 340.00 M 368.62 333.50 L 370.00 340.00 L 371.38 333.50" stroke-width="1.00" stroke="#fb0106" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 380.00 150.00 L 380.00 155.00" stroke-width="1.00" stroke="lime" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 380.00 155.00 L 380.00 160.00 M 378.62 153.50 L 380.00 160.00 L 381.38 153.50" stroke-width="1.00" stroke="lime" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 320.00 187.69 L 310.00 187.31" stroke-width="1.00" stroke="lime" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 310.00 187.31 L 300.00 186.92 M 306.55 185.79 L 300.00 186.92 L 306.44 188.55" stroke-width="1.00" stroke="lime" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 200.00 202.86 L 177.52 210.89" stroke-width="1.00" stroke="lime" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 177.52 210.89 L 160.00 217.14 M 165.66 213.66 L 160.00 217.14 L 166.59 216.26" stroke-width="1.00" stroke="lime" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 320.00 65.00 L 341.40 65.00" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 341.40 65.00 L 360.00 65.00 M 353.50 66.38 L 360.00 65.00 L 353.50 63.62" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 343.08 290.00 L 281.32 347.34" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 281.32 347.34 L 267.69 360.00 M 271.52 354.56 L 267.69 360.00 L 273.40 356.59" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 180.00 460.00 L 280.00 460.00 L 280.00 510.00 L 180.00 510.00 Z M 180.00 460.00" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="186.32" y="482.24" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Are they slurring</text>
+<text x="192.31" y="497.24" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > their speech?</text>
+<path d="M 180.00 558.94 L 280.00 558.94 L 280.00 608.94 L 180.00 608.94 Z M 180.00 558.94" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="191.30" y="581.18" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Hand squeeze</text>
+<text x="218.66" y="596.18" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > test</text>
+<path d="M 280.00 275.55 L 301.53 273.03" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 301.53 273.03 L 320.00 270.86 M 313.71 272.99 L 320.00 270.86 L 313.38 270.25" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 230.00 430.00 L 230.00 445.00" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 230.00 445.00 L 230.00 460.00 M 228.62 453.50 L 230.00 460.00 L 231.38 453.50" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 230.00 510.00 L 230.00 540.34" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 230.00 540.34 L 230.00 558.94 M 228.62 552.44 L 230.00 558.94 L 231.38 552.44" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 280.00 560.00 L 315.74 408.11" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 315.74 408.11 L 320.00 390.00 M 319.86 396.64 L 320.00 390.00 L 317.17 396.01" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 440.00 240.00 L 540.00 240.00 L 540.00 290.00 L 440.00 290.00 Z M 440.00 240.00" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="467.66" y="254.74" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Are they</text>
+<text x="463.98" y="269.74" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > behaving</text>
+<text x="490.00" y="284.74" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > abnormally?</text>
+<path d="M 440.00 360.00 L 540.00 360.00 L 540.00 410.00 L 440.00 410.00 Z M 440.00 360.00" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="446.32" y="382.24" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Are they slurring</text>
+<text x="452.31" y="397.24" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > their speech?</text>
+<path d="M 320.00 420.00 L 420.00 420.00 L 420.00 470.00 L 320.00 470.00 Z M 320.00 420.00" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="333.31" y="442.24" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Did they have</text>
+<text x="340.65" y="457.24" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > a seizure?</text>
+<path d="M 320.00 500.00 L 420.00 500.00 L 420.00 550.00 L 320.00 550.00 Z M 320.00 500.00" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="328.31" y="514.74" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Are they having</text>
+<text x="340.98" y="529.74" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > an allergic</text>
+<text x="343.65" y="544.74" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > reaction?</text>
+<path d="M 300.00 620.00 L 400.00 620.00 L 400.00 720.00 L 300.00 720.00 Z M 300.00 620.00" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="322.99" y="637.24" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Have they</text>
+<text x="309.31" y="652.24" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > consumed any</text>
+<text x="310.98" y="667.24" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > drugs, alcohol</text>
+<text x="314.31" y="682.24" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > or potentially</text>
+<text x="328.33" y="697.24" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > harmful</text>
+<text x="314.64" y="712.24" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > substances?</text>
+<path d="M 540.00 700.00 L 640.00 700.00 L 640.00 769.50 L 540.00 769.50 Z M 540.00 700.00" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="554.64" y="716.99" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Do they have</text>
+<text x="552.65" y="731.99" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > any history of</text>
+<text x="549.65" y="746.99" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > severe allergic</text>
+<text x="563.65" y="761.99" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > reaction?</text>
+<path d="M 560.00 800.00 L 660.00 800.00 L 660.00 870.72 L 560.00 870.72 Z M 560.00 800.00" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="568.31" y="817.60" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Are they having</text>
+<text x="586.66" y="832.60" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > difficulty</text>
+<text x="576.31" y="847.60" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > breathing or</text>
+<text x="575.98" y="862.60" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > swallowing?</text>
+<path d="M 560.00 900.00 L 660.00 900.00 L 660.00 980.50 L 560.00 980.50 Z M 560.00 900.00" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="578.65" y="922.49" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Is there any</text>
+<text x="570.31" y="937.49" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > swelling of the</text>
+<text x="575.65" y="952.49" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > face neck or</text>
+<text x="589.65" y="967.49" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > throat?</text>
+<path d="M 180.00 720.00 L 280.00 720.00 L 280.00 780.00 L 180.00 780.00 Z M 180.00 720.00" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="207.66" y="747.24" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Are they</text>
+<text x="203.98" y="762.24" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > changing color?</text>
+<path d="M 60.00 800.00 L 160.00 800.00 L 160.00 911.10 L 60.00 911.10 Z M 60.00 800.00" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="77.87" y="822.79" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Was there a</text>
+<text x="67.30" y="837.79" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > sudden change</text>
+<text x="76.31" y="852.79" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > in what they</text>
+<text x="95.33" y="867.79" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > were</text>
+<text x="76.31" y="882.79" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > complaining</text>
+<text x="89.98" y="897.79" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > about?</text>
+<path d="M 180.00 900.00 L 280.00 900.00 L 280.00 980.85 L 180.00 980.85 Z M 180.00 900.00" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="202.65" y="922.67" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Are they a</text>
+<text x="202.98" y="937.67" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > danger to</text>
+<text x="190.99" y="952.67" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > themselves or</text>
+<text x="208.32" y="967.67" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" > others?</text>
+<path d="M 370.00 390.00 L 370.00 405.00" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 370.00 405.00 L 370.00 420.00 M 368.62 413.50 L 370.00 420.00 L 371.38 413.50" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 370.00 470.00 L 370.00 485.00" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 370.00 485.00 L 370.00 500.00 M 368.62 493.50 L 370.00 500.00 L 371.38 493.50" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 366.55 550.00 L 359.44 601.57" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 359.44 601.57 L 356.90 620.00 M 356.42 613.37 L 356.90 620.00 L 359.15 613.75" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 360.29 720.00 L 414.20 981.99" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 414.20 981.99 L 417.95 1000.20 M 415.29 994.12 L 417.95 1000.20 L 418.00 993.56" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 400.00 340.00 L 445.71 301.91" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 445.71 301.91 L 460.00 290.00 M 455.89 295.22 L 460.00 290.00 L 454.12 293.10" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 490.00 290.00 L 490.00 341.40" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 490.00 341.40 L 490.00 360.00 M 488.62 353.50 L 490.00 360.00 L 491.38 353.50" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 440.00 410.00 L 430.00 415.00" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 430.00 415.00 L 420.00 420.00 M 425.20 415.86 L 420.00 420.00 L 426.43 418.33" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 396.22 550.00 L 540.09 687.17" stroke-width="1.00" stroke="#21fe06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 540.09 687.17 L 553.55 700.00 M 547.89 696.51 L 553.55 700.00 L 549.80 694.51" stroke-width="1.00" stroke="#21fe06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 571.28 900.00 L 411.00 733.40" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 411.00 733.40 L 398.10 720.00 M 403.61 723.73 L 398.10 720.00 L 401.61 725.64" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 300.00 703.33 L 287.50 711.67" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 287.50 711.67 L 275.00 720.00 M 279.64 715.24 L 275.00 720.00 L 281.17 717.54" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 160.00 890.91 L 170.00 897.99" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 170.00 897.99 L 180.00 905.06 M 173.90 902.44 L 180.00 905.06 L 175.49 900.18" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 280.00 958.76 L 375.57 993.81" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 375.57 993.81 L 393.04 1000.22 M 386.46 999.28 L 393.04 1000.22 L 387.41 996.68" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 650.00 326.42 L 650.00 333.21" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 650.00 333.21 L 650.00 340.00 M 648.62 333.50 L 650.00 340.00 L 651.38 333.50" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 631.25 390.00 L 619.91 405.12" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 619.91 405.12 L 608.75 420.00 M 611.54 413.97 L 608.75 420.00 L 613.76 415.63" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 710.00 150.00 L 681.62 185.48" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 681.62 185.48 L 670.00 200.00 M 672.98 194.06 L 670.00 200.00 L 675.14 195.79" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 100.00 30.00 L 100.00 40.00" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 100.00 30.00 L 100.00 20.00 M 101.38 26.50 L 100.00 20.00 L 98.62 26.50" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 260.00 30.00 L 260.00 40.00" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 260.00 30.00 L 260.00 20.00 M 261.38 26.50 L 260.00 20.00 L 258.62 26.50" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 801.40 100.00 L 780.00 100.00" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 801.40 100.00 L 820.00 100.00 M 813.50 101.38 L 820.00 100.00 L 813.50 98.62" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 801.40 220.00 L 700.00 220.00" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 801.40 220.00 L 820.00 220.00 M 813.50 221.38 L 820.00 220.00 L 813.50 218.62" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 801.40 300.00 L 700.00 300.00" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 801.40 300.00 L 820.00 300.00 M 813.50 301.38 L 820.00 300.00 L 813.50 298.62" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 340.00 38.60 L 340.00 60.00 L 340.00 60.00 C 337.24 60.00 335.00 62.24 335.00 65.00 L 335.00 65.00 C 335.00 67.76 337.24 70.00 340.00 70.00 L 340.00 100.00" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 340.00 38.60 L 340.00 20.00 M 341.38 26.50 L 340.00 20.00 L 338.62 26.50" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 801.40 460.00 L 760.00 460.00" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 801.40 460.00 L 820.00 460.00 M 813.50 461.38 L 820.00 460.00 L 813.50 458.62" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 801.40 580.00 L 760.00 580.00" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 801.40 580.00 L 820.00 580.00 M 813.50 581.38 L 820.00 580.00 L 813.50 578.62" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 801.40 420.00 L 688.00 420.00 L 688.00 420.00 C 688.00 417.24 685.76 415.00 683.00 415.00 L 683.00 415.00 C 680.24 415.00 678.00 417.24 678.00 420.00 L 640.00 420.00" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 801.40 420.00 L 820.00 420.00 M 813.50 421.38 L 820.00 420.00 L 813.50 418.62" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 801.40 520.00 L 715.00 520.00 L 715.00 520.00 C 715.00 517.24 712.76 515.00 710.00 515.00 L 710.00 515.00 C 707.24 515.00 705.00 517.24 705.00 520.00 L 640.00 520.00" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 801.40 520.00 L 820.00 520.00 M 813.50 521.38 L 820.00 520.00 L 813.50 518.62" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 801.40 640.00 L 640.00 640.00" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 801.40 640.00 L 820.00 640.00 M 813.50 641.38 L 820.00 640.00 L 813.50 638.62" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M -20.00 0.00 L 840.00 0.00 L 840.00 19.99 L -20.00 19.99 Z M -20.00 0.00" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="367.99" y="14.74" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Emergency Exit</text>
+<path d="M -478.43 501.47 L 501.47 501.47 L 501.47 518.55 L -478.43 518.55 Z M -478.43 501.47" transform="rotate(270.00,11.52,510.01)" stroke-width="1.00" stroke="black" stroke-linecap="round" stroke-linejoin="round" fill="white"  />
+
+<text x="19.02" y="549.26" transform="rotate(270.00,19.02,549.26)" font-family="Helvetica" font-size="12.00px" fill="black" opacity="1.00" >Emergency Exit</text>
+<path d="M 38.46 237.69 L 60.00 235.00" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 38.46 237.69 L 20.00 240.00 M 26.28 237.82 L 20.00 240.00 L 26.62 240.56" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 38.60 320.00 L 60.00 320.00" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 38.60 320.00 L 20.00 320.00 M 26.50 318.62 L 20.00 320.00 L 26.50 321.38" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 38.60 440.00 L 60.00 440.00" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 38.60 440.00 L 20.00 440.00 M 26.50 438.62 L 20.00 440.00 L 26.50 441.38" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 38.60 540.00 L 60.00 540.00" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 38.60 540.00 L 20.00 540.00 M 26.50 538.62 L 20.00 540.00 L 26.50 541.38" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 38.50 617.23 L 60.00 617.23" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 38.50 617.23 L 19.90 617.23 M 26.40 615.85 L 19.90 617.23 L 26.40 618.62" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 38.60 720.00 L 60.00 720.00" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 38.60 720.00 L 20.00 720.00 M 26.50 718.62 L 20.00 720.00 L 26.50 721.38" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 38.60 280.00 L 105.00 280.00 L 105.00 280.00 C 105.00 282.76 107.24 285.00 110.00 285.00 L 110.00 285.00 C 112.76 285.00 115.00 282.76 115.00 280.00 L 180.00 280.00" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 38.60 280.00 L 20.00 280.00 M 26.50 278.62 L 20.00 280.00 L 26.50 281.38" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 37.90 395.00 L 105.00 395.00 L 105.00 395.00 C 105.00 397.76 107.24 400.00 110.00 400.00 L 110.00 400.00 C 112.76 400.00 115.00 397.76 115.00 395.00 L 180.00 395.00" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 37.90 395.00 L 19.30 395.00 M 25.80 393.62 L 19.30 395.00 L 25.80 396.38" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 38.60 500.00 L 105.00 500.00 L 105.00 500.00 C 105.00 502.76 107.24 505.00 110.00 505.00 L 110.00 505.00 C 112.76 505.00 115.00 502.76 115.00 500.00 L 180.00 500.00" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 38.60 500.00 L 20.00 500.00 M 26.50 498.62 L 20.00 500.00 L 26.50 501.38" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 38.60 580.00 L 105.00 580.00 L 105.00 580.00 C 105.00 582.76 107.24 585.00 110.00 585.00 L 110.00 585.00 C 112.76 585.00 115.00 582.76 115.00 580.00 L 180.00 580.00" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 38.60 580.00 L 20.00 580.00 M 26.50 578.62 L 20.00 580.00 L 26.50 581.38" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 801.40 260.00 L 655.00 260.00 L 655.00 260.00 C 655.00 257.24 652.76 255.00 650.00 255.00 L 650.00 255.00 C 647.24 255.00 645.00 257.24 645.00 260.00 L 540.00 260.00" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 801.40 260.00 L 820.00 260.00 M 813.50 261.38 L 820.00 260.00 L 813.50 258.62" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 801.40 400.00 L 676.00 400.00 L 676.00 400.00 C 676.00 397.24 673.76 395.00 671.00 395.00 L 671.00 395.00 C 668.24 395.00 666.00 397.24 666.00 400.00 L 628.75 400.00 L 628.75 400.00 C 628.75 397.24 626.51 395.00 623.75 395.00 L 623.75 395.00 C 620.99 395.00 618.75 397.24 618.75 400.00 L 540.00 400.00" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 801.40 400.00 L 820.00 400.00 M 813.50 401.38 L 820.00 400.00 L 813.50 398.62" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 596.91 769.50 L 599.94 784.75" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 599.94 784.75 L 602.97 800.00 M 600.35 793.89 L 602.97 800.00 L 603.06 793.36" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 610.00 870.72 L 610.00 885.36" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 610.00 885.36 L 610.00 900.00 M 608.62 893.50 L 610.00 900.00 L 611.38 893.50" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 801.40 740.00 L 640.00 740.00" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 801.40 740.00 L 820.00 740.00 M 813.50 741.38 L 820.00 740.00 L 813.50 738.62" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 801.40 840.00 L 660.00 840.00" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 801.40 840.00 L 820.00 840.00 M 813.50 841.38 L 820.00 840.00 L 813.50 838.62" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 801.40 940.00 L 660.00 940.00" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 801.40 940.00 L 820.00 940.00 M 813.50 941.38 L 820.00 940.00 L 813.50 938.62" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 38.60 760.00 L 180.00 760.00" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 38.60 760.00 L 20.00 760.00 M 26.50 758.62 L 20.00 760.00 L 26.50 761.38" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 195.89 780.00 L 173.97 799.29" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 173.97 799.29 L 160.00 811.57 M 163.97 806.24 L 160.00 811.57 L 165.79 808.31" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 60.00 840.00 L 38.60 840.00" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 38.60 840.00 L 20.00 840.00 M 26.50 838.62 L 20.00 840.00 L 26.50 841.38" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 38.60 940.00 L 180.00 940.00" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 38.60 940.00 L 20.00 940.00 M 26.50 938.62 L 20.00 940.00 L 26.50 941.38" stroke-width="1.00" stroke="#22ff06" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 720.00 981.40 L 720.00 945.00 L 720.00 945.00 C 722.76 945.00 725.00 942.76 725.00 940.00 L 725.00 940.00 C 725.00 937.24 722.76 935.00 720.00 935.00 L 720.00 845.00 L 720.00 845.00 C 722.76 845.00 725.00 842.76 725.00 840.00 L 725.00 840.00 C 725.00 837.24 722.76 835.00 720.00 835.00 L 720.00 745.00 L 720.00 745.00 C 722.76 745.00 725.00 742.76 725.00 740.00 L 725.00 740.00 C 725.00 737.24 722.76 735.00 720.00 735.00 L 720.00 645.00 L 720.00 645.00 C 722.76 645.00 725.00 642.76 725.00 640.00 L 725.00 640.00 C 725.00 637.24 722.76 635.00 720.00 635.00 L 720.00 620.00" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+<path d="M 720.00 981.40 L 720.00 1000.00 M 718.62 993.50 L 720.00 1000.00 L 721.38 993.50" stroke-width="1.00" stroke="#fb0006" stroke-linecap="round" stroke-linejoin="round" fill="none"  />
+
+
+</svg>
+<!--OldSVGSize:51110 -->
+<!--Data_umdx_bIncluded:UEsDBBQAAAAIAPJd8E7d79MUeRMAAE8WAQAMAAAAMV9TaGVldDEudHh07Z3dktpIssfv/RQ8wBlFfX9cdJxwjD1nfGLWO7H2ntm9UpSkUsOaRn0E2O55+k0BjQpUUveCQBKWZy5oJLqB/6+qsjKzMkOCMEE0/Ptffgs/ffifj29WT4/2Dr9ZmAd7ZyxHcapJiN+YT1PzaD+uH+7QmzSHi0GWz+5ni+D7HUMB2vw7vPBUubCc/WmDb7NkNb2Dv+m5NrWz++nKeZ1Z3M/tXfnjb7OFfWeW07vd4+JVd3h/+V22jua2uPB8w8/ZPMvvCOdvzC+z+fxz8eHQ9vH2EiOaaSGJhjs+/fFzVj4h4Ddk8Zffs2Xxivnj1GxeOZ89/uP5wT+LB7//9r/ZbAFfGTz62TwWD96uViae2gQer+z31d3b3E5WU/s0Md/MF/vf8OJssfpYfMO/2vlXu5rFZvuc+3bhx0+bj0f2n+/XLH87n91v/tj/2fLxHzn8XfQmbNQyFVazSIe0SUuC2haT36yYU/N1trifJLM0ncXr+eppEuXWrKbw5IUkxjUS02eJFdJK8VA6EuNjiesEbtC3Xl3csrhcIhALCdqNxHA5z7NvHxa/Y+cxgXsecfg5C/8a/cvGq/Dj0eT4SCoXy9F28Ep4dx8Wif1+hzX8O3zh8TV4lysMgmGx/1p3zz3dCRwoyfdPkcOhu3sObqMBJtvbcPhulsOfmWUL+Gjwh90f5yDA5+1kkYbv3v/y9u+/fQ7fffj0Ofzlb3/9S/j727+9//jZmQKKgQBvl7g47Z9zUHphRlIYCStC1TQjUaoDpali7BhY+FzFp2OKVJHVUgfwJcJ35INWB5JqIsSOWg3vl0gh2GDnpPcPNr+3i/hp8v77bNXR+qJkyhIV6iY1QTFEhcLHWmL4+wH8bopUVUwFCEjJBFc1YmohtNqJSTkoLwkRw11hPmaLn3qhqEExJ2lY/PKGASpGk+G1JsNs8a91bpMrmwc7PSOEcISxCaVt1PNYGneQjoIeGfRzm686k5NQIWUo0yY5ea2cP8DwxK9S88OyEBMkXdp8lq2XE3iXNrm+GV8KKwyxPFSNS2nDOD2ekV+rrBiOsv/hOI2zh8e5mS2KDVuWTswCnpra5WryCE92JnMshIhCZU7bkTfK7J2qhzeAXyfzdgA7ik5MlH3dSD/LJ5Gdz2Fvvl6tss6kJoIgC1JHTVLXGlIVBl6rtLw1pSc7qb/OYOv6MHmA9RcGczLJ5onN4YpZTCifPFmTLzfj/P5S3raXFZcJ0qB4fJLi9FTF1a0pfih4an2Ss15ITlOLRTHIk5MkZ96V+RWS39yq/S7bO1jtZqmezparLH8q5J2CzjDH5xm884dlZ0qnsUyTUDVupGqVrpjkP+zCXdpnc/PwAALnz171GIb3ZPnNmlVXIjOcUCRIqBq3V1jVLtpN+6vGKZwEijIm6a2o3DSeTZRkD7OFmU9MloOwcN2u86flQ1eqMxNhJkKNThra4tR1W6hAw25eqFsTPbV2PlmY9dIWO2sY4PPZl92gX8Aue7Iq7suzb5P1Y2eSx7EUNtSNUe5ayeWpkt/cbP5uluw0hy3YqtB6Aav1fPdzZ+ramCsZanKaM4WeOo3fnrwN03gyM5Fd2c7WapkkGOtQNyY31It88lr9Q4m8XOXZxdJXXpRYRTFOcajZaeZYJUz1w/pQmpyii/VDBB9ks1A/mtzMn5azzgZ1FDEag+KN4Udem37WGK76sQZ1uTDP592knxVqWp7ysPhcDVZW7fgd1XxW8w+zdYkVYk7ui5SzZz8YRoW53ZmlFTMp0zTUstmObt3LfXMK78frNl9gF8eYWtNV5gCDDZIQMHgbU7UapJUiYFgSKn50aXfu7EebL7PFdgUGu3nebSYBSwRjCkZuY8C5Xt5xj1RrPm+ikfD/dggvbPylMK0iE3/pTGspYKIOdWPUWdSHKUatj2fpeba0MJQXy7jIHtmYz2a1VT/r0PGRaAWfONTNMef6KMXJ/utbE/p5zi6GMuyTtkN5szQ/HdpfZiIn2XpV3IRRZ7LHmFoW6sbAc/2u6eQw5O2N7+O5vFeb4yRRWMLmuDHYXC8zPzml5FYDFXuZV3aR2PxZ6MSmWf4wWz1tIxW9WcXTiNso1I0R6Hr5T45TSRBUUELJrcj/q/m6T86+t8uVTTYQJPn6fqO/mcfZNLuU1+SFE10RJ6lAKQ+NG70Yj3Rd6kiXc+KheqbLTbg++1AXK62k8lAXP3iKHGZvl4e6ytt6dKhrTyxFjMJVw0ZiL0+s6yT3EOs4Xc8mVrAqsZhUkRWqiqx7XxvMipaZZUjgBIUmHSyzjGCMmeJsANC+OM3ujymdP80iGtDNvxJafczn9zuqRSCKf9Jh1jlP2wKznLTObKQZCiM0MnuNidZd/L0T7X4aPpdZrliAHRhrmOWKB8pB+wLMMto2s1gilYQRHpntgXFQxuvONw7QoSGwMQ54FVpBjw2Gg7hfKxMtbxtaguI0CiM6QnsVaB0sfdDuI5HnQ8urFi3xQVt57iCi2cpMq9uGliYU2TDiI7RXgbaMoPqgLWNu50MrqjMt9ZgHQldnWid211No0yTiYSRGaK8DbYmlD9p9/PBsaCWuzrTMA+3xfeQwDtlP34GIjcRhNNyiWwODdh/f9EK7D4udvw/THmhlFdrj+8hheK2XTlomCccsjNQI7XWgLbH0QbsP5l0EWl7GbBuhFS1D2/pMq5WSNIzMCO11PF77MjQ+aMsjN2dDS6WoQEsqka/ivkNvLjk8utNLaHliOU3DdDQPrgTtvqiOD9ryTPfZ0BLGAoUZQdyBtmK/wn1UBVxjwsnFoG3d5cVTDaqH6WgeXAfasjyQLx5WlpI5v5asZyNGPDbt8X3ksCZNLwNiAhHDkzDVI7TXgbbEsgqtUwznItDSSpaBH1onnbWXGzGBIkF1mI427VWgdbH0Qbuv63MRaI+Tvuqg5e1Ce4GZNqVGhmk0QnsdaEssPTZtWbHmItDyV5oHLXsPWrdpBY5IosI0HqG9isvLwdIH7b7mzkWgFaLq8vJBK/sOLWEp2FipHaG9CrSOU8sH7b6UUAsuL89GzJeZWJl9D47b9tKmVZraWIY4Hm4cFwsJHNCOjqb8hx6vMl3Wl0xbOnHPZtZzZsGX5FXdmx0Uq+4ns0YQroDZ4fppB8VsU2jB9eGezSzxMKtkIDQpes2UzHq6J2ElguI2KfuZTauMYREHZofrph0Us02RBdeFe3ZkAXlsA0QCxSVm1DFoRZVZgmWAGYFb++g6sJSLJI6TkBg0WGYLixYpmDBk/6l1+9B5mtQ553AuMdF6DjRSD7PtHmhsHdkU7G3KQ5IO99QC7FowVQoPYZ59YQ9WloE8H9liRZaFJdC8ByPi2F44KCfZJ3sW76EVsAagkJHGsrf15TLZ2FzmuFzmcr7O86JW5rYKxPLR2njaTf2HQl8Z6ULfxoq39fpyvneQ/eD6/lo0E1n+/9raP0Fou7xQs8UXKj1YhnlidRyyaNi+vqFYRge5QJdNbyMevwmRPOCcauruQT3FHorkDCUo0bqPDmrLiGGwLQq5GPZBo+FQ69g/FWoPlv3zsaWeCDb1mEeV5w7Mhz7a9ICtFZECbIfroh4StodgerndmzMX4ZZ7EzM9mRelWdTDbGLLKIujuOB2uEluA9qLTtqPApJms4BX3CN+s8A98dnAKbnySU6855QrygqzoLHKbKWWbFkweqwye7z9jOyuNZqJFln+YObzp442n6BuaigCdRtLy9are3IvjttVt0/OBcYU14aDvo01ZOvb6Yw1ZO+Oa0Rvq4tOlnb25zrvqIdOIazVloCwjVVj64U9uWrszQm7H7jPk/JiAjOyze9n8SS3ZrP8dqayiayKQx43Lr6VFsNlcdhTh69z8UZkLqvDFvXd1w9uddj/eq4Nu6kHna3sYjUrVmVAIn9I1/PJch0tV2YRd9UWzTIuMCNghsWNC3V9meCTexsKHXDEaKHNbYDQ2BfNfrUwHfRm/HNjCI9DQZpVr638r85oNy+x0kWLtttQ/XiWT2ZpOovX8xWY40Xh/+mmdRqYa99A/Owb/NSZ5pEVsCkVpLnsf63m+oyG80zD772Zkb7t9pBvR/nym53Pd/3xtj23Yruv/170rTUdtfewTKiURgYUb7Tl6iOAcuw3X2mIOIVPtOs+nuWdCQuzdxKBsKd1lz959sYYpNICF32Qb0PYXae8fLPzWieJXWwltkVHpm9Ts9rK/q24w22GaaJs3d24jkQSF+P6xL7z58zkilMib0b+/bg2k6RQPd+18HhYFnJuujtkBR7XNs933nyGYxGhBIWCosF684cUhTpw3VeDUK7b6yLne3xlGn3ne9o+s95u3jlgq2Nqwdakw02IHBK2h2B6ud179S7Cra/onY/blovetRz0B24N0kYAt8NtpjM0bkswfdyWfsrzuRUi4BxLwpxgqu9sGheB0oK71ZhEy+UW2s2xYjgRqYxgQ0CHXYF8QNw6YHpOTSiZskSFbZyohF0cUVpiXVIrPYXvGJaB5gwrJwMdbHl4MYKvifYqBb3EVsN1DtgOuBPUcHJVXjJunYyMFrrqeIxb5sHWd0DtdZkrnRkJSYRhugVqx8zA60y2Lphebve5Judz6ymO6zvwUy1N3v6Bn3Zr5zNsNaUmBW6Hexh4aNyWYF7YmcA8rfeYJ6OVeTIFW3YmtG7cWkNAceB2wBmtw+kX+eKezMkYON+61SIgBIPZ2rwn45wGnGlN+FAKMzGcKi4IAWyTwWI7rOnWCXBf2pfAJQ6IVEX2itOAz+NL0CrAiO5fS452b/07QFBway0ruB3uKcMBbcpecCUcBPHPn249uzKJjivmf98cPTxEuX1s2w45pBHCVISCjS6w63DrJCF4uS2D1OfXbxRVbhXswDRYDpw55W48ZcV00XdSIN7PEk0Ft8Yi2JWx4frABsatA+ZFXbe+01uaq0AKiih3jQRgioJZjY9dt1hQ3s4xw7adYImhIkEixCYZbrXcAZkJB11Nff2hyuaSl+h5SknZy/QZW1/P037XHQVqubUSFdQOd1M2KGpfaHpaNuo7m1oKOzJ+RK2v6SmCCZi7z/XeAZZEiYk5C7HVwy09OiQboeiKbnkKk624dFd0X9tTb1d0TzJNy13RW7ZstbWIJTDT4gQLgtKR3BbIxQ65yEOurxyBsRzFqSbhKYX0nWIE2FtztELq8W2bCbbPgTGpeIxZRA1XOEFyuJlfPTIMjjjd74g8+3gPQse3XQChduc6QChKY64Q3GOVHndEHU11Bwu3d65DNfMcKyFVvnrgHt++9NWw7/WSXMx0KFYxjTlNhRlwOLW3mDZB5OtXKz2rJanZjpBeQFTYdQLzFEtDJKGjXXdliqptCPwU1fXiPJWido2ugiKOJBY8jpBIxoykC1J0nHdZY3VV0zPbX8/at9yRZsqmkhKw3wcL0TDXs2ruLsxEPtO95bzICxhFCU8I2O0UmzHp4boQcU/DUx9E7n09hUgzlqYKrCIz3K6nw4SomtX6/U54lrN+H5vlWjOUFt8mxUXC+wjRdWeiV0LUcuvlS8xESikapSIVyejNvC5EVWD8EIl++jN3JUYo1lgYgTiWEivhZiZVyoz8VFsKsh4j5a3u+gySDrRGrKhfvSHpp7NR6rrKyPsHm9/bRfw0ef99dqHmIa9SNBaKaiIj1Njy5ycmVcAo5UQdS8oRDpgQGPGqqFqCcIgVOSIeUWWAFML8uXIMkaOqZ6jqhq44zJOUcUqT4WYH9Heyf13c4bzejk7wwec29i0pHq8x9ffIo4crCu3QLGEylVypuMjFHUntilSZIA2k1uVc1UXIMG+ktNqCwEspfZ3x3CWlmKjE4AjbZLjFi/pLaQNCx2dYaxBiNaZzP8Jju008sUwZY+RwD6MMEiH+OoR4DUK4FwhtE5J0JC2NYmHGLXxn2STMRJiJUKNTrDpnvcSbnRHT2HEUwI6IUIY1aSTVva2v6yVFCea6qJ02knrNyc5XBsqDUN3BzT6tlypOlKSGjU3LrovQ8RG1ukOUpCb61psFM0pjIWFfaSMrx8BJZwvmWa3X2cGCSbRiWLiHeY7PpPtRde/r5YoZpQmJkwTDNzXuMK+8PfDkzvkYqitT248lc+tLU4oZTlIz4DTeAeTOvTJjxQtRr9fMTQKmpqlOhNFswHVj+z8ReXPBPblzVefF4X0NXv0Os3hZgm3MI8NTNNyZaJgQHRdZrYOI1Sxn/YCIWR4LniC4iQ335FSf1jLkIFRTKs2p4ecr8Ve2hzu/VJoWgUaKKafsuiyb/zmeCxJoiaRySqWpXh+nAnATBiZYAe5wy0kMDFyHTB+4TgnAsytKeI7mq7J/YQlupczqYS3AXp6bKI6rRlQKGgk5um2vu2zLV+YIypoo1anL9gWiVMggbnGc2sSMEF0VIuWDyOP9V72Olm9dGSJlGkwRI4a7ig4TIv1KiHTvIcKY61jYiGs0xsuvG4X0eDJ87jBZ48nohzuMWcFj+A9u4sMFaFi2vFvZ2FdA1qkve3YBWc0DpQklTkCpWr+jWmh2s4JiHHChJWlOwejyDDSnzFpuCTVjQKl9dPcbwtdZYZ4OG3VGWD/8GNuYJI7jBMU4iscT0FddP302mLeOda9tsE0koEhWFBxTSYe7G+zTEloD0XHe165AVRWjaoJYfSfLq5WF+TdQSwMEFAAAAAgA8l3wTs+yfqulAAAA9wAAAAwAAAAxX1NoZWV0MS5pbmllzt0KgjAUB/D7PUVPENsSPy7OVYkONAIloZuxdKU0txiT7O1DQyo6V4ffn/NxORnTA1njudBZ1LfEmkE3W6OMBY9GXuQHNPLRkcUVr9iuTCH0NsvArGnMkrQEgildXGSdlssOQnC4wThASjyl3YteQjZ1K/KWojUPIKge7MxMN3IEjAbdOa6kvrqWO3PoRqk+n36HRS2UhB/S05G7+zPOdJ4DegFQSwMEFAAAAAgA8l3wTsYIolBQBgAAyisAAA8AAABwcmludGluZm8ucGxpc3TlWktsG0UYnnVfSZo2dtqmLzCu60qtpXid1I3T4qY4dkySOrabddKkD8zYnjrbbnaW3THBPe0Fbly4IYTa0guHSqAKISFuSEgVQoiGCCGEECckQDzLQ6hCMLu247VjJw6qqG1sxZmdncf3f98/88/MblISeIW43UuMacPGTZtnz804nkWywmNxxoGTl1GKKLMOKKfmeJoddxAsdQPmhetvmPduabOw7r7+o55jA97B4yce9z3x5OjYeGRyasohZgVhqb1ja+e27V3mpyJcbCIGMyiE5XlIEmaLniHzIuEQIbyYUS5EOD8hMp/MEqRMO1ICVBR1l7pbNal7Pune0bnzgOtshHNdQTnlHP1fwHVrV8/uPXv37X/kUetjNnWDulHdpG5Wt6htarvaoW5VO9Vt6vZbdrvj0CH74SOH6a/aRb9mtZt+u9Qd6k76l09bEuadEW4ayYRPQUHIBZBIkIzSCXNPhBvFMn8Vi8R442KEG8fJEIIkKyMNfxhdIhNQzvAivTXJZ+YKVwlzN71GGqdIIyEqp5GcMO9abhYKNJsXIaGUJ8xdlBtaSokhmZtDiJThKhU8H+HiWMr3QPkdxoTg+WKHFLLO7iiCtC+/mA5hTEG3aUyeHHJdv65aFv3DgeC5PNEinEcz+SRSEuYdEW4iS2BSQEE+pfUF5dzNwEiI2ljKmIlwUV2Eg6DwMQMzs3i6MzyhCZWGBEYt+2/7Tj03L9gK/nTS3udy221ITOE0Ff2kfSoe6h20nxrq8B0IRgPx2diITXdGW2xqODwWsNl7WdYvSQJi2WA8aIuFx7i4jbbBsiMRu80+R4h0gmUXFhZcUCvlSuF5raDCxmQsUcpyYdpYL63gSpO0nXaTb70MDs1NU6uGOtp91LuGaBOFxiSNQVfJbV2xiZIfTCLFx2rlabVC9er1qWxXEHGlZOooWC7Wafcp1NnFjKH4ZZzMl/WxhXtrNMkTNO+XZZgrNQq1Sy1VAlWjjbXN0mpS0MKQt9/H6onarRUQKQQSFBJgxtgGvY8ySB5y+9hiUgfILtPGFmEv560NOSrzdBzqI6F1dKhilJHBvnIGG0UKjs5LlKbWkaHCoOWB0NeA46AYGFpqPqpiVGPPRkXALTcUahjWaENCySbj+X4kSON+ghcv4USRs2pa0NVnLBjTygZwGkXo+qdE1TI/61GtXtnWqZtROKNya1phQBSmS2wkl4FYv1Y1xTKoZZDLqOEy0rgMRUXQwxunY9GhNzX5dZhkgDfF2RpDjDiPM7DJ2a9hgwGPCHuFBqB71QnWn76cVQhKa5mTdDfVjFr8OwMrWl2F5dVv5VcFRz3GSFTMPuYdKMs2iNSwfkAdusUdodLClZ6gS9bbN1hN0xrZXm91DzjuaWQPoFSM0bWKqxTJg/w8EhXjDrCpHaAeAx/oTDDQ11/VPY73N4kfNHNUXp9hBpANG6pL+KdE2JKxui4LH+gQbc5gXZ2nlorW9Zm40hf+d+FaktKtO1XXMs4AtBF2sTV68sfGpvOPd1acqLndrn53vWdoJCehFS3UJC1eKdbq51U1sdaCWi/S2kCLK/FKpEWgPlZ/NjbUofYs+oejsYulh4CQwJvRM6HpCKclF093chNRS+fVpn+0F8SpLF2LFijRDv4ljIU8TU19hFuPYYbRrFXlU/ohFiulL5UP64d3qDuOk4VoRFPGmagpNalpjUGIWFZQoGILCXihUUQoe0mDgg9giW/2R02rmmRkr4EeuK7EnAtgQaB9tpoWlXZpVYmcRWyjaRDiZYVogbWlFFhhVXMMiDBsQS0qjTIy2N/n8XoGjw54vA2riX6KAMUWE2WFVZX74ZqjpR7xjPvdh6fkf78/MZJc3xZl+uz5wluO2rrqtZmQ8VJ/jfI0yqG0v/Di6t3zF+IyxkRlQBuwgH3gIOgF/cALODALkuAZ8Dx4CbwMXgGvgmvgBngdvAneBXfAB+BD8BH4GCyCJfAp+Ax8Dr4AX4KvwPfgR/AzuAd+A3+AP8F98Bf4m2GYDcwmZgtjZbzMCDPJPM1kmReZa8zbzHvMXeZb5jvmF+Ye8yvzO3PftNnUZTpkOmIaMJ0yjZrGTWHTGdOstctqsfZYHdbDVtbqcd52vuV8x/m+845zyfm18xvnD/n3LE1M4YXLi6Ds4/zpH1BLAQIAABQAAAAIAPJd8E7d79MUeRMAAE8WAQAMAAAAAAAAAAEAAAAAAAAAAAAxX1NoZWV0MS50eHRQSwECAAAUAAAACADyXfBOz7J+q6UAAAD3AAAADAAAAAAAAAABAAAAAACjEwAAMV9TaGVldDEuaW5pUEsBAgAAFAAAAAgA8l3wTsYIolBQBgAAyisAAA8AAAAAAAAAAAAAAAAAchQAAHByaW50aW5mby5wbGlzdFBLBQYAAAAAAwADALEAAADvGgAAAAA=-->
