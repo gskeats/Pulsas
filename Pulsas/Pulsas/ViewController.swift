@@ -11,22 +11,31 @@ import UIKit
 
 class ViewController: UIViewController {
     @IBOutlet weak var scenetext: UILabel!
+    var current_scene=consciousness_check
     
     override func viewDidLoad() {
-        let basic_view=BasicView(text_init: "Hello")
-        basic_view.instantiate_view(view_controller: self)
+        current_scene.instantiate_view(view_controller: self)
         super.viewDidLoad()
     }
     
     @IBAction func negResponse(_ sender: Any) {
-        //current_scene=current_scene.get_neg() as! Basic_Question
+        current_scene=current_scene.get_neg() as! Basic_Question
+        print(current_scene.label_text)
+        current_scene.instantiate_view(view_controller: self)
     }
     
     @IBAction func posRepsonse(_ sender: Any) {
-        //current_scene=current_scene.get_pos() as! Basic_Question
+        current_scene=current_scene.get_pos() as! Basic_Question
+        print(current_scene.label_text)
+        current_scene.instantiate_view(view_controller: self)
+        self.viewWillAppear(true)
+
         
     }
 }
+
+
+
 
 class PulsasView{
     let button_blue=UIColor(red: 194/255, green: 232/255, blue: 255/255, alpha:1.0)
@@ -34,9 +43,11 @@ class PulsasView{
     let screen_width=UIScreen.main.bounds.width
     let screen_height=UIScreen.main.bounds.height
     var label_text:String = ""
+    
     init(text_init: String){
         label_text=text_init
     }
+    
     func instantiate_view(view_controller:ViewController){
         view_controller.view.backgroundColor=pulsas_blue
     }
@@ -56,15 +67,13 @@ class TextOnly:PulsasView{
         super.init(text_init: text_init)
     }
     
-    override func instantiate_view()->ViewController{
-        let view_controller=ViewController()
-        let label = UILabel()
-        label.frame = CGRect(x: screen_width/3, y: screen_height/3, width: 200, height: 20)
-        label.text = "Are they awake?"
-        label.textColor = .black
-        view_controller.view.backgroundColor=pulsas_blue
+    override func instantiate_view(view_controller:ViewController){
+        super.instantiate_view(view_controller: view_controller)
+        view_controller.scenetext.frame = CGRect(x: screen_width/3, y: screen_height/3, width: 200, height: 20)
+        view_controller.scenetext.text = self.label_text
+        view_controller.scenetext.textColor = .black
+        view_controller.scenetext.view.backgroundColor=pulsas_blue
         view_controller.view.addSubview(label)
-        return view_controller
     }
 
 }
@@ -79,8 +88,8 @@ class Basic_Question:TextOnly{
         super.init(text_init: text_init)
     }
     
-    override func instantiate_view()->ViewController{
-        let view_controller=ViewController()
+    override func instantiate_view(view_controller:ViewController){
+        super.instantiate_view(view_controller: view_controller)
         let button_font = UIFont(name: "button_font", size: 40)
 
         let yes_button=UIButton()
@@ -91,9 +100,6 @@ class Basic_Question:TextOnly{
         yes_button.setTitleColor(.black, for: .normal)
         yes_button.layer.cornerRadius=18
         yes_button.showsTouchWhenHighlighted=true
-
-
-
         let no_button=UIButton()
         no_button.frame=CGRect(x: self.screen_width*5/9, y: self.screen_height*2/3, width: self.screen_width/3, height: self.screen_width/6)
         no_button.backgroundColor = self.button_blue
@@ -102,12 +108,8 @@ class Basic_Question:TextOnly{
         no_button.layer.cornerRadius=18
         no_button.showsTouchWhenHighlighted=true
         no_button.addTarget(view_controller, action: #selector(view_controller.negResponse(_:)), for: .touchUpInside)
-        
-    
-        
         view_controller.view.addSubview(yes_button)
         view_controller.view.addSubview(no_button)
-        return view_controller
     }
     
     override func get_neg()->PulsasView{
